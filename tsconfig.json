@@ -1,7 +1,7 @@
 {
-    "compilerOptions" : {
-        "target" : "es5",
-        "module" : "commonjs",
-        "sourceMap" : true
+    "compilerOptions": {
+        "target": "es5",
+        "out": "js/script.js", // js 머지할 경로와 파일명
+        "watch": true
     }
 }
